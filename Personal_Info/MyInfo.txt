@@ -1,0 +1,245 @@
+MS WORD ACTIVATION
+
+@echo off
+title Activate Microsoft Office 2019 ALL versions for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2019&echo - Microsoft Office Professional Plus 2019&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:6MWKP >nul&cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul&set i=1
+:server
+if %i%==1 set KMS=kms7.MSGuides.com
+if %i%==2 set KMS=kms8.MSGuides.com
+if %i%==3 set KMS=kms9.MSGuides.com
+if %i%==4 goto notsupported
+cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
+cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+explorer "http://MSGuides.com"&goto halt
+:notsupported
+echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/aiomsp
+:halt
+pause >nul
+
+
+Sanguine type
+Mesomorphic type
+Heart-Shaped faces or Diamond faces
+
+192.168.100.5 
+
+
+
+
+JHON PATRICK Q. CAJUGUIRAN
+
+Ang pakikinig ay napakaimportante yan sa isang tao dahil kung di ka makarinig o mapakinggan ang mga sinasabe nang mga tao ay parang malungkot at parang wala kang karapatang makinig kung ano ang mga sinasabi nila. Ang pakikinig ay nakakapagbigay sigla rin sa isang tao. Halimbawa kung ikaw ay malungkot at stress na makinig ka lamang nang mga slow or hard rock at marami pang iba
+
+Nagaganap po ang pagkikinig sa pang araw araw nating ginagawa. Pagising pa lamang sa Umaga ay marami na tayong naririrnig na mga bagay bagay. Hanggang sa matapos na po ang isang araw na marami tayong mga ibat ibang narinig sa ating kapaligiran.
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> College of Computer Studies </title>
+	</head>
+	<body>
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Dominican_College_of_Tarlac_Logo.svg/1200px-Dominican_College_of_Tarlac_Logo.svg.png"
+		width="150" height="150" align="right">
+		
+		<img src="https://dct.edu.ph/wp-content/uploads/2019/01/CCS_Logo.png"
+		width="150" height="150" align="left">
+		
+		
+		<p style="text-align:center;"><font size="20"><font face="Arial Black">STUDENT INFORMATION</p></font>
+		<table align="center" border="1" cellpadding="5" cellspacing="5" height="950" width="100%">
+			<tr>
+			
+				<th colspan="3" rowspan="2" bgcolor="blue"> Avengers</th>
+				<th bgcolor="black"><font color="white">Ant - Man</th></font>
+				<th bgcolor="black"><font color="white">Black Panther</th></font>
+				<th bgcolor="brown" colspan="2"> Captain America</th>
+				
+			</tr>
+			<tr>
+				<th bgcolor="black" rowspan="7"><font color="white"> Aquaman</th></font>
+				<th colspan="3" bgcolor="orange">Batman</th>
+				<th bgcolor="black"><font color="white">Superman</th></font>
+			</tr>
+			<tr>
+				<th bgcolor="black"><font color="white">Deadpool</th></font>
+				<th bgcolor="black"><font color="white">The Matrix</th></font>
+				<th colspan="3" bgcolor="yellow">Fast & the Furious</th>
+				<th bgcolor="black"><font color="white">Jumanji</th></font>
+				<th bgcolor="black"><font color="white">Venom</th></font>
+			</tr>
+			<tr>
+				<th rowspan="4" bgcolor="violet"> Rambo: Last Blood</th>
+				<th bgcolor="black"><font color="white">Godzilla</th></font>
+				<th bgcolor="black"><font color="white">Kong : Skull Island</th></font>
+				<th bgcolor="black"><font color="white">Baywatch</th></font>
+				<th colspan="3" bgcolor="gray"> Suicide Squad</th>
+			</tr>
+			<tr>
+				<th bgcolor="black"><font color="white">Lion King</th></font>
+				<th colspan="4" bgcolor="pink">Toy Story</th>
+				<th bgcolor="black"><font color="white">Hellboy</th></font>
+			</tr>
+			<tr>
+				<th colspan="5" bgcolor="green">Sonic the Hedgehog</th>
+				<th rowspan="2" bgcolor="red">The Last Witch Hunter</th>
+			</tr>
+			<tr>
+				<th bgcolor="black"><font color="white">One Piece</th></font>
+				<th bgcolor="black"><font color="white">Fairy Tail</th></font>
+				<th bgcolor="black"><font color="white">Naruto</th></font>
+				<th bgcolor="black"><font color="white">Dragon Ball</th></font>
+				<th bgcolor="black"><font color="white">Attack on Titan</th></font>
+			</tr>
+			</tr>
+		</table>
+		
+	</body>
+
+</html>	
+
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  padding: 10px;
+  overflow: hidden;
+  background-color: blue;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #6369e6;
+  color: white;
+}
+
+.logo {
+  font-size: 20px;
+  float: left;
+  margin-left: 20px;
+  color: white;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+GMAIL
+RomCajuguiran0609@gmail.com
+0912877175
+
+cajuguiranp11@gmail.com
+PATRICKJULY112001
+
+jhonpatrick0711@gmail.com
+July112001Cajuguiran
+
+VALORANT
+Cajuguiranp11
+PATRICK09107862718
+
+GARENA COD
+MalakasSolid11
+New123456
+
+
+Facebook
+patrickcajuguiran11
+PATRICK112001
+
+jhonpatrick_cajuguiran@yahoo.com
+09107862718
+
+RomCajuguiran0609@gmail.com
+0912877175
+
+
+Imagine nalang po natin ngayong panahon na more on technology na kung walang mga Mobile phones. Paano po tayo makikipagcommunicate or contact ang mga kamag-anak or kakilala natin sa mga malalayong lugar? Na ngayon ay puro Video call nalang at hindi pa pwede magkita, dahil sa may kumakalat pa ring virus dito sa ating bansa Siguro po napakahirap ngayong moderno na ang lahat kung walang Cellphone lalo na po ngayong may pandemya tayong kinakaharap na ang setup nang pag aaral is Online Class.
+
+Electricity, napakalungkot po siguro nang ating buhay kung walang kuryente sa panahon ngayon. At hindi natin mas mapapadali ang ating mga ginagawa kung walang Electricity. 
+
+
+
+            string emp_name, position, reply;
+            int no_days_work = 0, n = 0;
+            double sss = 0, philhealth = 0, tax = 0, pag_ibig = 0, daily_rate = 0;
+            double total_deductions = 0, gross_pay = 0, net_pay = 0;
+
+
+            do
+            {
+                Console.Clear();
+                Console.Write("EMPLOYEE'S PAYROLL SYSTEM");
+                Console.Write("\n\n");
+                Console.Write("Enter Employee's Name       : ");
+                emp_name = Console.ReadLine();
+                Console.Write("Enter Employee's Position   : ");
+                position = Console.ReadLine();
+                Console.Write("Enter Number of Day's Work  : ");
+                no_days_work = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter Daily Salary Rate     : ");
+                daily_rate = Convert.ToDouble(Console.ReadLine());
+
+                gross_pay = (no_days_work * daily_rate);
+
+                Console.Write("\n\n");
+                Console.WriteLine("Gross Pay       : Php {0:0.00}.", gross_pay);
+                Console.Write("\n\n");
+                Console.Write("===== DEDUCTIONS =====");
+                Console.Write("\n\n");
+                Console.Write("Enter SSS Contribution            : ");
+                sss = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Enter PAG-IBIG Contribution       : ");
+                pag_ibig = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Enter PHILHEALTH Contribution     : ");
+                philhealth = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Enter BIR TAX Contribution        : ");
+                tax = Convert.ToDouble(Console.ReadLine());
+
+                total_deductions = (sss + pag_ibig + philhealth + tax);
+
+                net_pay = (gross_pay - total_deductions);
+
+                Console.Write("\n\n");
+                Console.WriteLine("Total Deductions      : Php {0:0.00}.", total_deductions);
+                Console.Write("\n\n");
+                Console.Write("===== DISPLAY RESULTS =====");
+                Console.Write("\n\n");
+                Console.WriteLine("Employee's Name       : {0}.", emp_name);
+                Console.WriteLine("Empoyee's  Position   : {0}.", position);
+                Console.WriteLine("Gross Pay             : Php {0:0.00}.", gross_pay);
+                Console.WriteLine("Total Deductions      : Php {0:0.00}.", total_deductions);
+                Console.Write("\n\n");
+                Console.WriteLine("Net Pay               : Php {0:0.00}.", net_pay);
+                Console.Write("\n\n");
+                Console.Write("Do You Want To Continue? Y/N : ");
+                reply = Console.ReadLine();
+
+                if (reply == "y" || reply == "Y")
+                {
+                    continue;
+                }
+                else if (reply == "n" || reply == "N")
+                {
+
+                }
+
+            } while (n == 0);
+            Console.ReadLine();
+        }
+    }
+}
